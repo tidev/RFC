@@ -14,7 +14,15 @@ projects are of the upmost quality.
 
 ## Contributor License Agreement (CLA)
 
-All contributors must sign the TiDev CLA.
+All contributors must sign the TiDev CLA. You can review the latest version of the CLA on our
+organization-docs Github repository here:
+https://github.com/tidev/organization-docs/blob/main/CONTRIBUTOR_CLA.pdf
+
+1. Contact Josh Lambert either via TiSlack or via email (josh.lambert@centrevilletech.com) and request an e-sign link containing the CLA. Make sure you include the email address in your message that you want to receive the e-sign request!
+2. Complete the e-sign link when it arrives in your email from the TiDev Docusign account.
+3. Your name will appear on the list below within 5 business days, at which point, you'll be eligible to submit code and other IP to the TiDev project.
+
+> PLEASE NOTE: We only accept signed CLAs via Docusign to ensure we're all using the correct version of this document.
 
 You do not need to sign a CLA to contribute to a RFC discussion.
 
